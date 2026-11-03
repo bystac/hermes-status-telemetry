@@ -1,0 +1,7 @@
+{
+  "name": "status-telemetry",
+  "title": "Status Telemetry Backend",
+  "description": "Read-only session cost, 7-day usage rollup, and host RAM metrics for the Status Telemetry desktop chip.",
+  "version": "1.0.0",
+  "api": "plugin_api.py"
+}

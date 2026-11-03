@@ -1,0 +1,14 @@
+name: status-telemetry
+version: "1.0.0"
+description: "Responsive status bar telemetry chip & popover for Hermes Desktop: session cost ($), live tok/s, API latency, token totals, 7-day spend rollup, and host RAM usage."
+author: "Shachar Iphraimov <iphraimov@gmail.com>"
+license: MIT
+homepage: "https://github.com/bystac/hermes-status-telemetry"
+requires_hermes: ">=0.21.0"
+provides_tools: []
+provides_hooks: []
+capabilities:
+  provides_tools: []
+  provides_hooks: []
+  provides_middleware: []
+  requires_env: []
